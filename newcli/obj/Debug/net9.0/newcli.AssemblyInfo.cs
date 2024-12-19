@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("newcli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf127dd12de04f08501e386933d612eb09f554b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97e10f726da8c3cdc4efb07b12608c2550b2b024")]
 [assembly: System.Reflection.AssemblyProductAttribute("newcli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("newcli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

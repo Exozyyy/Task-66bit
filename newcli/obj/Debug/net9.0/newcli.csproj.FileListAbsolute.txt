@@ -1,5 +1,3 @@
-C:\Users\Exozy\Desktop\brbrbr\C#\newcli\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\Exozy\Desktop\brbrbr\C#\newcli\bin\Debug\net9.0\appsettings.json
 C:\Users\Exozy\Desktop\brbrbr\C#\newcli\bin\Debug\net9.0\newcli.staticwebassets.endpoints.json
 C:\Users\Exozy\Desktop\brbrbr\C#\newcli\bin\Debug\net9.0\newcli.exe
 C:\Users\Exozy\Desktop\brbrbr\C#\newcli\bin\Debug\net9.0\newcli.deps.json
@@ -27,3 +25,6 @@ C:\Users\Exozy\Desktop\brbrbr\C#\newcli\obj\Debug\net9.0\refint\newcli.dll
 C:\Users\Exozy\Desktop\brbrbr\C#\newcli\obj\Debug\net9.0\newcli.pdb
 C:\Users\Exozy\Desktop\brbrbr\C#\newcli\obj\Debug\net9.0\newcli.genruntimeconfig.cache
 C:\Users\Exozy\Desktop\brbrbr\C#\newcli\obj\Debug\net9.0\ref\newcli.dll
+C:\Users\Exozy\Desktop\brbrbr\C#\newcli\bin\Debug\net9.0\CoreL\players.json
+C:\Users\Exozy\Desktop\brbrbr\C#\newcli\bin\Debug\net9.0\InfrastructureL\appsettings.Development.json
+C:\Users\Exozy\Desktop\brbrbr\C#\newcli\bin\Debug\net9.0\InfrastructureL\appsettings.json
